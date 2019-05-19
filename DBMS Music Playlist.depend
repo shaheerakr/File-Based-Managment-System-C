@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1518895573 source:c:\work\ned\1st semester\pl\project\dbms music playlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+
+1518960864 source:j:\dbms music playlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+
+1518959738 source:f:\dbms music playlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+
+1518953513 source:c:\users\saadat\documents\dbms music playlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+
+1519069848 source:c:\work\ned\1st semester\pl\dbms music playlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<dir.h>
+
